@@ -1,0 +1,13 @@
+C:\Users\asus\source\repos\yigitcankaragoz\yigitcankaragoz\bin\Debug\netcoreapp3.1\yigitcankaragoz.exe
+C:\Users\asus\source\repos\yigitcankaragoz\yigitcankaragoz\bin\Debug\netcoreapp3.1\yigitcankaragoz.deps.json
+C:\Users\asus\source\repos\yigitcankaragoz\yigitcankaragoz\bin\Debug\netcoreapp3.1\yigitcankaragoz.runtimeconfig.json
+C:\Users\asus\source\repos\yigitcankaragoz\yigitcankaragoz\bin\Debug\netcoreapp3.1\yigitcankaragoz.runtimeconfig.dev.json
+C:\Users\asus\source\repos\yigitcankaragoz\yigitcankaragoz\bin\Debug\netcoreapp3.1\yigitcankaragoz.dll
+C:\Users\asus\source\repos\yigitcankaragoz\yigitcankaragoz\bin\Debug\netcoreapp3.1\yigitcankaragoz.pdb
+C:\Users\asus\source\repos\yigitcankaragoz\yigitcankaragoz\obj\Debug\netcoreapp3.1\yigitcankaragoz.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\yigitcankaragoz\yigitcankaragoz\obj\Debug\netcoreapp3.1\yigitcankaragoz.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\yigitcankaragoz\yigitcankaragoz\obj\Debug\netcoreapp3.1\yigitcankaragoz.AssemblyInfo.cs
+C:\Users\asus\source\repos\yigitcankaragoz\yigitcankaragoz\obj\Debug\netcoreapp3.1\yigitcankaragoz.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\yigitcankaragoz\yigitcankaragoz\obj\Debug\netcoreapp3.1\yigitcankaragoz.dll
+C:\Users\asus\source\repos\yigitcankaragoz\yigitcankaragoz\obj\Debug\netcoreapp3.1\yigitcankaragoz.pdb
+C:\Users\asus\source\repos\yigitcankaragoz\yigitcankaragoz\obj\Debug\netcoreapp3.1\yigitcankaragoz.genruntimeconfig.cache
